@@ -1,5 +1,5 @@
-#ifndef __H_LOG_GAZETTE__
-#define __H_LOG_GAZETTE__
+#ifndef LOG_GAZETTE_H
+#define LOG_GAZETTE_H
 
 #include <iostream>
 
